@@ -15,7 +15,7 @@ The STorage RequirEmEnts and dispatch Model (STREEM) is a high resolution energy
 * Download STREEM from Github and save it in a folder of your preference
 * Using a terminal (command line) navigate to the folder where STREEM is saved 
 * Type pip install -r requirements.txt
-* Type python streem.py to run the preconfigured example
+* Type **python streem.py** to run the preconfigured example
 
 ## Documentation
 Stay tuned for the model documentation
