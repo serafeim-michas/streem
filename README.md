@@ -5,6 +5,7 @@
 - [Documentation](#documentation)
 - [Citing STREEM](#citing-streem)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## About
 The STorage RequirEmEnts and dispatch Model (STREEM) is a high resolution energy model which (i) simulates the operation of renewable energy sources (RES) and electricity storage systems, aiming at improving the matching of renewable energy generation and electricity demand, and (ii) optimises RES and storage capacities. The novelty of STREEM lies in its capability of simulating multiple storage technologies with simple parameterization of its input parameters. That way, it is capable of simulating the simultaneous operation of short-term (e.g., batteries) and long-term storage (e.g., pumped hydro storage), applying priority rules. Furthermore, STREEM can provide economic outputs of examined renewable plus storage configurations, such as the levelized cost of energy of residential PV generation coupled with the appropriate level of storage capacity, or the levelized cost of storage of multiple battery storage technologies. The applicability of STREEM ranges from local energy communities, to national or international scale.
@@ -43,3 +44,11 @@ The **STREEM source code** is licensed under the GNU Affero General Public Licen
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
 The input data contained in the **Data** folder are collected through publicly available sources. The license does not apply to input data.
+
+
+## Acknowledgements
+The development of STREEM has been partially supported by the participation of the developer in the:
+* EC-funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Sustainable energy transitions laboratory" (SENTINEL) with grant agreement No. 837089
+* EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Enabling Positive Tipping Points towards clean-energy transitions in Coal and Carbon Intensive Regions" (Tipping+) with grant agreement No. 884565
+
+developed and applied in the context of the following projects funded by the European Commission
