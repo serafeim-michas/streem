@@ -50,5 +50,3 @@ The input data contained in the **Data** folder are collected through publicly a
 The development of STREEM has been partially supported by the participation of the developer in the:
 * EC-funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Sustainable energy transitions laboratory" (SENTINEL) with grant agreement No. 837089
 * EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Enabling Positive Tipping Points towards clean-energy transitions in Coal and Carbon Intensive Regions" (Tipping+) with grant agreement No. 884565
-
-developed and applied in the context of the following projects funded by the European Commission
