@@ -23,7 +23,7 @@ Stay tuned for the model documentation
 ## Citing STREEM
 STREEM has been developed by Dr. Serafeim Michas, as part of his PhD thesis called [Exploratory assessment of adaptive pathways toward renewable energy systems: a modelling framework facilitating decision making under deep uncertainty](https://www.didaktorika.gr/eadd/handle/10442/56358?locale=en)
 
-In academic literature please cite BSAM as: 
+In academic literature please cite STREEM as: 
 >[![article DOI](https://img.shields.io/badge/article-10.1016/j.enpol.2023.113455-blue)](https://doi.org/10.1016/j.enpol.2023.113455) Michas, S., & Flamos, A. (2023). Are there preferable capacity combinations of renewables and storage? Exploratory quantifications along various technology deployment pathways. Energy Policy, 174, 113455. [https://doi.org/10.1016/j.enpol.2023.113455](https://doi.org/10.1016/j.enpol.2023.113455)
 
 
