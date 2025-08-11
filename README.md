@@ -3,7 +3,7 @@
 - [About](#about)
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
-- [Citing BSAM](#citing-streem)
+- [Citing STREEM](#citing-streem)
 - [License](#license)
 
 ## About
