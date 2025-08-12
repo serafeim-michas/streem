@@ -18,7 +18,8 @@ The STorage RequirEmEnts and dispatch Model (STREEM) is a high resolution energy
 * Type **python streem.py** to run the preconfigured example
 
 ## Documentation
-Stay tuned for the model documentation
+Read the full dumentation here: [STREEM Documentation_v1.0.pdf](https://github.com/user-attachments/files/21729433/STREEM.Documentation_v1.0.pdf)
+
 
 ## Citing STREEM
 STREEM has been developed as part of the PhD dissertation called [Exploratory assessment of adaptive pathways toward renewable energy systems: a modelling framework facilitating decision making under deep uncertainty](https://www.didaktorika.gr/eadd/handle/10442/56358?locale=en)
