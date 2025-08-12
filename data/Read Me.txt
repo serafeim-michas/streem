@@ -1,0 +1,30 @@
+Files that need to be updated:
+
+1. In "res_and_storage_sizing" mode:
+	
+	a. demand/input/demand_projections.xlsx
+	b. demand/input/historical_annual_demand.csv
+	c. demand/input/historical_timeseries.csv
+	d. res_data/input/res_capacity_projections.xlsx
+	e. res_data/input/historical_capacity.csv
+	f. res_data/input/historical_timeseries.csv
+	g. battery_characteristics.xlsx
+	h. phs_characteristics.xlsx
+	i. simulation_customization.xlsx
+	j. simulation_years.xlsx
+	k. technoeconomic_assumptions.xlsx
+
+2. In "res_and_storage_dispatch" mode:
+	
+	a. demand/input/demand_projections.xlsx
+	b. demand/input/historical_annual_demand.csv
+	c. demand/input/historical_timeseries.csv
+	d. res_data/input/(dispatch) sampled res capacities [year].xlsx
+	e. res_data/input/historical_capacity.csv
+	f. res_data/input/historical_timeseries.csv
+	g. (dispatch) storage capacity [year].xlsx
+	g. battery_characteristics.xlsx
+	h. phs_characteristics.xlsx
+	i. simulation_customization.xlsx
+	j. simulation_years.xlsx
+	k. technoeconomic_assumptions.xlsx
